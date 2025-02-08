@@ -50,7 +50,7 @@ This is the backend for the File Upload System. It is built using Django and Dja
 
 6. **Access the API:**
 
-    Open your browser and go to localhost`http://:8000/api/`
+    Open your browser and go to `http://localhost:8000/api/`
 
 ## API Endpoints
 
